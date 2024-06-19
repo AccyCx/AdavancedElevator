@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1715621109 source:c:\users\86173\desktop\c++\advancedelevator\person.cpp
+	"person.hpp"
+
+1715621132 c:\users\86173\desktop\c++\advancedelevator\person.hpp
+	<iostream>
+
+1715670606 source:c:\users\86173\desktop\c++\advancedelevator\advancedelevator.cpp
+	"AdvancedElevator.hpp"
+	"person.hpp"
+
+1715670495 source:c:\users\86173\desktop\c++\advancedelevator\elevator.cpp
+	"elevator.hpp"
+
+1715666770 c:\users\86173\desktop\c++\advancedelevator\elevator.hpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1715669307 source:c:\users\86173\desktop\c++\advancedelevator\test.cpp
+	"AdvancedElevator.hpp"
+	"elevator.hpp"
+
+1715669307 c:\users\86173\desktop\c++\advancedelevator\advancedelevator.hpp
+	"elevator.hpp"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+
